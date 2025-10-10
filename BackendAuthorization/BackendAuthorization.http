@@ -1,6 +1,0 @@
-@BackendAuthorization_HostAddress = http://localhost:5202
-
-GET {{BackendAuthorization_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

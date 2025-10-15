@@ -4,7 +4,9 @@ builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
+// Здесь был Артём
 // Здесь был Олег
+// Здесь был Артём
 
 if (app.Environment.IsDevelopment())
 {

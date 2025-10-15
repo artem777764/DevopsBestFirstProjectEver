@@ -5,6 +5,7 @@ builder.Services.AddOpenApi();
 var app = builder.Build();
 
 // Здесь был Олег
+// Здась был Олег второй раз
 
 if (app.Environment.IsDevelopment())
 {
